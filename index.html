@@ -1,19 +1,13 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Redirect to site</title>
-</head>
-<body>
-http://foobnix.github.io/foobnix
+---
+layout: default
+lang: en
+title: Foobnix
+---
 <script >
     var language = window.navigator.userLanguage || window.navigator.language;
 	if(language.toLowerCase().indexOf("ru")>0){
-		window.location = "http://foobnix.github.io/foobnix/ru/index.html"
+		window.location = "{{site.url}}/ru/index.html"
 	}else{
-        window.location = "http://foobnix.github.io/foobnix/en/index.html"
+        window.location = "{{site.url}}/en/index.html"
     }
 </script>
-
-</body>
-</html>

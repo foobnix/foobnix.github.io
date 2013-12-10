@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<ul class="index">
+    {% for post in site.categories.faq %}
+    {% if post.lang == page.lang %}
+    <li><a href="#{{post.id}}">{{post.title}}</a></li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+{% for post in site.categories.faq  %}
+{% if post.lang == page.lang %}
+<a name="{{post.id}}"><h3> {{post.title}}</h3></a>
+{{post.content}}
+{% endif %}
+{% endfor %}

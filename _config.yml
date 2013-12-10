@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title.html
+auto: true
+relative_permalinks: false
+
+safe: true
+lsi: false
+pygments: true
+
+author: Ivan Ivanenko 
+email: ivan.ivanenko@gmail.com
+site: www.foobnix.com
+
+url: http://foobnix.github.io
+
+foobnix_version: 2.6.10
