@@ -8,8 +8,8 @@ title: Новый сайт плеера
 Мы рады приветствовать вас на нашем новом сайте.
 Теперь он будет значительно быстее, всегда доступным.
 
-Сайт разрабатывается на GitHub страницах по адрессу
-[https://github.com/foobnix/foobnix/tree/gh-pages](https://github.com/foobnix/foobnix/tree/gh-pages)
+Сайт разрабатывается на GitHub страницах
+[https://github.com/foobnix/foobnix.github.io](https://github.com/foobnix/foobnix.github.io)
 
 Вы можете помочь нам сделать его лучше :)
 

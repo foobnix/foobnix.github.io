@@ -8,9 +8,8 @@ title: New foobnix site
 We welcome you to our new website.
 Now it will be considerably fast, always available.
 
-Website developed on GitHub page to the address
-
-[https://github.com/foobnix/foobnix/tree/gh-pages](https://github.com/foobnix/foobnix/tree/gh-pages)
+Website developed on GitHub pages
+[https://github.com/foobnix/foobnix.github.io](https://github.com/foobnix/foobnix.github.io)
 
 You can help us make it better :)
 
