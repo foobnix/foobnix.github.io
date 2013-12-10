@@ -1,1 +1,8 @@
-hello world
+<script >
+    var language = window.navigator.userLanguage || window.navigator.language;
+	if(language.toLowerCase().indexOf("ru")>0){
+		window.location = "http://foobnix.github.io/foobnix/ru/index.html"
+	}else{
+        window.location = "http://foobnix.github.io/foobnix/en/index.html"
+    }
+</script>
