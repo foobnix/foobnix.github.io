@@ -22,6 +22,7 @@ title: Новый сайт плеера
 [https://github.com/foobnix/foobnix](https://github.com/foobnix/foobnix)
 или
 
+    unstable 3.0.1
     sudo add-apt-repository ppa:popsul1993/ppa
     sudo apt-get update
     sudo apt-get install foobnix

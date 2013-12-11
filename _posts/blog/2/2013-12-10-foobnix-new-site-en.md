@@ -22,6 +22,7 @@ We are actively working on a new version of the <b>player 3.0</b> rewriting it o
 You can install it from sources
 [https://github.com/foobnix/foobnix](https://github.com/foobnix/foobnix)
 or
+    unstable 3.0.1
     sudo add-apt-repository ppa: popsul1993/ppa
     sudo apt-get update
     sudo apt-get install foobnix
