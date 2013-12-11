@@ -1,0 +1,14 @@
+---
+layout: default
+lang: en
+title: 404
+---
+<script >
+    var language = window.navigator.userLanguage || window.navigator.language;
+	if(language.toLowerCase().indexOf("ru")>0){
+		window.location = "{{site.url}}/ru/404.html"
+	}else{
+        window.location = "{{site.url}}/en/404.html"
+    }
+</script>
+
