@@ -1,0 +1,19 @@
+---
+layout: default
+lang: en
+title: VKontakne
+---
+
+<script language="javascript" type="text/javascript">
+	var link = document.location.href; 
+	var key = "access_token"; 
+	var index = link.indexOf(key) + key.length+1; 
+	var indexEnd = link.indexOf('&',index); 
+	var token = link.substring(index, indexEnd); 
+
+	var user_index = link.indexOf('&user_id=') + '&user_id='.length
+
+	document.write("<b>Token : </b>" + token); 
+	document.write('<br/>'); 
+	document.write("<b>User Id: </b>" + link.substring(user_index));
+</script>
