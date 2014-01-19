@@ -17,7 +17,7 @@ You can help us make it better :)
 Guide for formatting text site
 [http://daringfireball.net/projects/markdown/basics](http://daringfireball.net/projects/markdown/basics)
 
-We are actively working on a new version of the <b>player 3.0</b> rewriting it on GKT 3
+We are actively working on a new version of the <b>player 3.0</b> rewriting it on GTK 3
 
 You can install it from sources
 [https://github.com/foobnix/foobnix](https://github.com/foobnix/foobnix)

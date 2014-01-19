@@ -17,7 +17,7 @@ title: Новый сайт плеера
 [http://daringfireball.net/projects/markdown/basics](http://daringfireball.net/projects/markdown/basics)
 
 
-Мы активно работаем над новой версией <b>плеера 3.0</b> переписывая ее на GKT 3
+Мы активно работаем над новой версией <b>плеера 3.0</b> переписывая ее на GTK 3
 Вы можете установить ее из исходных кодов
 [https://github.com/foobnix/foobnix](https://github.com/foobnix/foobnix)
 или
