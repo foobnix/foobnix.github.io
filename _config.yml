@@ -7,10 +7,10 @@ safe: true
 lsi: false
 pygments: true
 
-author: Ivan Ivanenko 
+author: Ivan Ivanenko
 email: ivan.ivanenko@gmail.com
 site: www.foobnix.com
 
 url: http://www.foobnix.com
 
-foobnix_version: 2.6.10
+foobnix_version: 3.00.02
