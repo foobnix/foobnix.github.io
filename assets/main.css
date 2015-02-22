@@ -271,3 +271,6 @@ h2 .rssicon{vertical-align:bottom;margin-bottom:7px;margin-left:10px;}
 .resourcesold li{padding-top:6px;text-align:left;}
 .resourcesold a,.resourcesold a:link,.resourcesold a:active,.resourcesold a:visited{text-decoration:none;}
 .resourcesold li ul li{font-weight:normal;}
+
+.content ul li { list-style-type: square }
+.content ul li ul li { list-style-type: circle }
