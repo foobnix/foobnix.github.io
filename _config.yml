@@ -6,11 +6,14 @@ relative_permalinks: false
 safe: true
 lsi: false
 pygments: true
+whatch: true
 
 author: Ivan Ivanenko
 email: ivan.ivanenko@gmail.com
 site: www.foobnix.com
 
-url: http://www.foobnix.com
+url: http://127.0.0.1:4000
+
+port: 4000
 
 foobnix_version: 3.00.02
