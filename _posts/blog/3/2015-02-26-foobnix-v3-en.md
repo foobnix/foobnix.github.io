@@ -6,7 +6,7 @@ title: Foobnix v3.0.x Release
 ---
 **Changes**
 
-* Gtk3 interface1
+* Gtk3 interface
 * GStreamer1.0 audio backend
 * Thread safety improvements
 * Stability improvements
