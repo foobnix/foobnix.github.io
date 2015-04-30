@@ -1,0 +1,13 @@
+<p>Чтобы в Unity какое-либо приложение отображалось в трее, необходимо добавить его в белый список Например, для foobnix по идее должно быть:</p>
+
+<pre>
+gsettings set com.canonical.Unity.Panel systray-whitelist "['foobnix']"
+</pre>
+
+
+<p>Если необходимо разрешить всем приложениям использовать трей, то:</p>
+
+<pre>
+gsettings set com.canonical.Unity.Panel systray-whitelist "['all']"
+</pre>
+
