@@ -3,12 +3,12 @@
 #sliderFrame 
 {
     position:relative;
-    width:700px;
+    width:868px;
     margin: 0 auto; /*center-aligned*/
 }
 
 #slider, #slider div.sliderInner {
-    width:700px;height:450px;/* Must be the same size as the slider images */
+    width:868px;height:559px;/* Must be the same size as the slider images */
 }
 
 #slider {
@@ -37,7 +37,7 @@
 	height:auto;
 	padding:10px 0;/* 10px will increase the height.*/
 	left:0px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
-	bottom:0px;/*if the caption needs to be aligned from top, specify by top instead of bottom. i.e. top:150px;*/
+	bottom:-55px;/*if the caption needs to be aligned from top, specify by top instead of bottom. i.e. top:150px;*/
 	z-index:3;
 	overflow:hidden;
 	font-size: 0;
@@ -68,7 +68,7 @@
 /* ------ built-in navigation bullets wrapper ------*/
 /* Note: check themes\2\js-image-slider.css to see how to hide nav bullets */
 #slider div.navBulletsWrapper  {
-    top:460px;/* Its position is relative to the #slider */
+    top:615px;/* Its position is relative to the #slider */
 	text-align:center;
 	background:none;
 	position:relative;
