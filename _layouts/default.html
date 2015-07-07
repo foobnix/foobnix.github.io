@@ -22,6 +22,7 @@
 <div class="head">
 
     <div>
+
         <ul class="lang">
 
          {% if page.lang == "ru" %}
@@ -40,13 +41,16 @@
 
         {% endif %}
 
+
         </ul>
+
         <a class="logo" href="{{site.url}}/{{page.lang}}/"><img src="{{site.url}}/assets/img/logo.png" alt="Foobnix"></a>
 
 
 
 
         {% include top_menu.html %}
+
     </div>
 </div>
 <div class="body">
@@ -64,9 +68,12 @@
 
     </div>
     <div class="footer">
+
         <div>
             <span>©Foobnix player. Author Ivan Ivanenko <a href="mailto:ivan.ivanenko@gmail.com">ivan.ivanenko@gmail.com</a> under licence GNU GPL v3</span>
+
         </div>
+        <a href="/{{page.lang}}/feed.xml"> <img src="/assets/images/rss.png" /></a>
     </div>
 </div>
 

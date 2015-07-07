@@ -7,6 +7,9 @@ safe: true
 lsi: false
 pygments: true
 
+name: Foobnix Player
+description: Lightweight and Functional music player for Linux
+
 author: Ivan Ivanenko
 email: ivan.ivanenko@gmail.com
 site: www.foobnix.com
