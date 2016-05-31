@@ -1,11 +1,11 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:title.html
 auto: true
 relative_permalinks: false
 
 safe: true
 lsi: false
-pygments: true
+#pygments: true
 
 name: Foobnix Player
 description: Lightweight and Functional music player for Linux
